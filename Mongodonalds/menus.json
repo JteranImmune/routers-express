@@ -1,0 +1,7 @@
+[
+    { "nombre": "Menu Grand Big Mongo", "precio": 8.5 },
+    { "nombre": "Menu Big Mongo" , "precio": 8 },
+    { "nombre": "Menu MongoPollo", "precio": 7.5 },
+    { "nombre": "Menu Cuarto de Mongo", "precio": 7 },
+    { "nombre": "Menu MongoRoyal Deluxe", "precio": 7 }
+]

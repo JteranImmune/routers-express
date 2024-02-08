@@ -1,0 +1,6 @@
+[
+    { "nombre": "MongoCola", "precio": 2 },
+    { "nombre": "Fantongo", "precio": 2 },
+    { "nombre": "Agua", "precio": 1 },
+    { "nombre": "Mongo Brew", "precio": 2.5 }
+]
